@@ -1,6 +1,6 @@
 ## ¡Clonemos un Sitio!
 
-La idea de este desafío es que todos intenten generar una versión aproximada de [este sitio](https://medium.com/the-junction/the-generic-medium-article-a648dcf08bf6). No es necesario que el sitio quede 100% igual e inspeccionar la página está permitido. 
+La idea de este desafío es trabajen en generar una versión aproximada de [este sitio](https://medium.com/the-junction/the-generic-medium-article-a648dcf08bf6). No es necesario que el sitio quede 100% igual, e inspeccionar la página está permitido. 
 
 Antes de empezar, creemos los siguientes archivos:
 
