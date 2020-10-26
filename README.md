@@ -12,13 +12,13 @@ git clone git@github.com:***sunombredeusuario***/wtm-challenges.git
 ```
 3. Ingresar al repositorio clonado y correr el siguiente comando:
 
-`` bash
+``` bash
 git remote add upstream git@github.com:l1chtlaerm/wtm-challenges.git
 ```
 
 Esto habilitará que puedan correr un comando para tener los desafíos actualizados ya que iremos agregando nuevos con el correr de los días. El comando es el siguiente:
 
-`` bash
+``` bash
 git pull upstream main
 ```
 
