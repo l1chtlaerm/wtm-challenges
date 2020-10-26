@@ -1,14 +1,5 @@
 ## Specs
 
-Let's start with a very simple algorithm. Open the `lib/even_or_odd.js` file. Implement the `evenOrOdd` function which takes one parameter `number` (of type `Number`) and returns a `String`:
+¡Primer desafío! Abran el archivo `lib/par_impar.js`. Implementar la función `parImpar` que toma un parámetro llamado `numero` (type `Number`) y debe devolver un `String` que aclare si el mismo es `par` o `impar`.
 
-- `"even"` if the number is even (0, 2, 4, etc.)
-- `"odd"` if the number is odd (1, 3, 5, etc.)
-
-**⚠️ Warning**: In JavaScript, you need to **explicitly** write the `return` keyword, otherwise [the function will return `undefined`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return#Syntax)! The only exception to this rule is when you use a one-liner arrow function with [implicit return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions#Function_body).
-
- _Hint: remember the Ruby modulo operator? It also exists in JavaScript and might be useful!_
-
-Run `rake` to check your style and the correctness of your function!
-
-
+Bonus: ¿qué pasa si pasamos un valor que no es numérico a la función? en caso de que lo recibido no sea un número o no pueda ser convertido a número, devolver `no es un valor numerico`.
