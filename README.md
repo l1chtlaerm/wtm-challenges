@@ -3,7 +3,7 @@ Bootcamp challenges! Cada carpeta tiene desafíos asociados según las distintas
 
 #### ***Importante: Instalar ESlint***
 
-Ingresar a [extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) y hacer click en **Install**.
+Ingresar a [este sitio](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) y hacer click en **Install**.
 
 Para qué? ESlint les marcará automáticamente errores de sintaxis o de estilo en su editor de texto.
 
