@@ -9,4 +9,4 @@ Para qué? ESlint les marcará automáticamente errores de sintaxis o de estilo 
 
 También utilizaremos Mocha como testing framework para los ejercicios. Esto hará que puedan autosustentarse en los desafíos más técnicos y también se introduzcan en **Test Driven Development**. ¿Qué es **TDD**? Para un primer contacto recomiendo consultar [el siguiente sitio](https://www.paradigmadigital.com/dev/tdd-como-metodologia-de-diseno-de-software/).
 
-También es importante que corran el comando 'yarn install' desde la carpeta principal de los challenges para que se generen las distintas dependencias de los desafíos.
+También es importante que corran el comando 'yarn install' desde esta misma carpeta en su terminal para que se generen las distintas dependencias de los desafíos.
