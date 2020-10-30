@@ -7,9 +7,11 @@ const joey = "Joey Ramone"
 const tommy = "Tommy Ramone"
 
 const ramonesArray = [johnny, deedee, joey, tommy]
+const ramonesArrayOrdered = [deedee, joey, johnny, tommy]
+
 
 describe("ramonesOrdered", () => {
   it("debe retornar el Array ordenado alfabéticamente", () => {
-    assert.strictEqual(ramonesOrdered(ramonesArray), ramonesArray.sort());
+    assert.deepStrictEqual(ramonesOrdered(ramonesArray), ramonesArrayOrdered);
   });
 });

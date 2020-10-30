@@ -1,5 +1,5 @@
 const ramonesOrdered = (ramones) => {
-
+   return ramones.sort();
 };
 
 const johnny = "Johnny Ramone"
