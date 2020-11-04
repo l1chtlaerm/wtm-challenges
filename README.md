@@ -19,7 +19,7 @@ git remote add upstream git@github.com:worldtechmakers/wtm-challenges.git
 Esto habilitará que puedan correr un comando para tener los desafíos actualizados ya que iremos agregando nuevos con el correr de los días. El comando es el siguiente:
 
 ``` bash
-git pull upstream main
+git pull upstream main -X ours
 ```
 
 #### ***Importante: Instalar ESlint***
