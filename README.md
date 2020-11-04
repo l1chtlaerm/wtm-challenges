@@ -38,4 +38,4 @@ Utilizaremos Mocha como testing framework para los ejercicios. Esto hará que pu
 npx mocha
 ```
 
-También es importante que corran el comando 'yarn install' desde esta misma carpeta en su terminal para que se generen las distintas dependencias de los desafíos.
+También es importante que corran el comando 'yarn install' desde esta misma carpeta en su terminal para que se generen las distintas dependencias de los desafíos. Primero instalar desde https://classic.yarnpkg.com/es-ES/docs/install/#windows-stable.
