@@ -7,6 +7,6 @@ let solucion = ["Roberto", "Mimi"]
 
 describe("amigosEnComun", () => {
   it("Debe retornar un array con los amigos en común de ambas personas", () => {
-    assert.deepStrictEqual(amigosEnComun(amigosDeFernanda, amigosDePablo), solucion);
+    assert.deepStrictEqual(amigosEnComun(amigosDeFernanda, amigosDePablo).sort(), solucion.sort());
   });
 });
