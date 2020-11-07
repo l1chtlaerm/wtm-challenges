@@ -6,6 +6,5 @@ const stringANumero = (string) => {
   // implementar una función que convierta un número en formato string a number
 };
 
-module.exports = numeroAString; // No remover
-module.exports = stringANumero; // No remover
+module.exports =  { numeroAString, stringANumero }; // No remover
 
