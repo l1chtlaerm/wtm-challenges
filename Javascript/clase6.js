@@ -62,10 +62,12 @@
 
 // +57 (1) 5551234
 
-/*
+
 const numeroValido = (string) => {
-    return string.match(/(\+57) (\(\d{1,3}\)) (\d{7})/)
+    return string.match(/(^\+57) (\(\d{1,3}\)) (\d{7})$/)
 }
 
 console.log(numeroValido("+57 (1) 5551234"))
-*/
+console.log(numeroValido("e+57 (1) 5551234"))
+console.log(numeroValido("+57 (1) 5551234e"))
+
