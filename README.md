@@ -8,12 +8,12 @@ En primera instancia deben hacer tres cosas:
 2. Clonar el repositorio a su computadora desde la terminal en la carpeta que estén utilizando para guardar sus proyectos. El comando que deben correr es:
 
 ``` bash
-git clone git@github.com:***sunombredeusuario***/challenges-JS-bootcamp.git
+git clone git@github.com:***sunombredeusuario***/wtm-challenges.git
 ```
 3. Ingresar al repositorio clonado y correr el siguiente comando:
 
 ``` bash
-git remote add upstream git@github.com:worldtechmakers/challenges-JS-bootcamp.git
+git remote add upstream git@github.com:l1chtlaerm/wtm-challenges.git
 ```
 
 Esto habilitará que puedan correr un comando para tener los desafíos actualizados ya que iremos agregando nuevos con el correr de los días. El comando es el siguiente:
